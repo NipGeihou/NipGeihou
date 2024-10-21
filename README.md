@@ -16,7 +16,7 @@
 
 
 
-| [![NipGeihou's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipGeihou&count_private=true&hide=issues&show_icons=true&theme=ambient_gradient)](https://github.com/NipGeihou) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipGeihou&layout=compact&theme=ambient_gradient)](https://github.com/NipGeihou) |
+| [![NipGeihou's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipGeihou&count_private=true&hide=issues&show_icons=true&theme=ambient_gradient)](https://github.com/NipGeihou) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipGeihou&layout=compact&theme=ambient_gradient&hide=html,vba,css,asl)](https://github.com/NipGeihou) |
 | ------------- | ------------- |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NipGeihou&theme=flat&rank=-?,-C,-B)](https://github.com/NipGeihou)
